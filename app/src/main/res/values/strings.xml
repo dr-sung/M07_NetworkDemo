@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M07_NetworkDemo</string>
+    <string name="load_data_string">Load Data</string>
+    <string name="city_hint">city,state,country</string>
+</resources>
