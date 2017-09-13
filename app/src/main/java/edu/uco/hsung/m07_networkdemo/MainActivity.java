@@ -72,7 +72,7 @@ public class MainActivity extends Activity {
                         .appendQueryParameter("q", params[0]) // city
                         .appendQueryParameter("mode", "json") // json format as result
                         .appendQueryParameter("units", "metric") // metric unit
-                        .appendQueryParameter("cnt", "10")      // # of days forecast
+                        .appendQueryParameter("cnt", "14")      // # of days forecast
                         .appendQueryParameter("APPID", "d152563ff15336cc584eb978a0fa5a1a")
                         .build();
 
